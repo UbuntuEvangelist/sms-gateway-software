@@ -1,9 +1,6 @@
 ```
 # SMS Gateway Software Deploy Service 
 I will install SMS gateway Linux for send and receive text SMS real time 100% inbox.
-```
-
-```
 No False Promises. No Over-Hype. I will do SMS Gateway software installation and configuration service from home 🏠
 ```
 
