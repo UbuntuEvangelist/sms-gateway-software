@@ -23,7 +23,8 @@ Email: aaccou52@gmail.com
 ```
 
 ```
-#Features:
+Features:
+---------
 SMPP Client / Server
 HTTP Client / Server
 Based on AMQP broker for store&forward mechanisms
