@@ -20,9 +20,9 @@ WhatsApp: https://wa.link/o9zcd5
 Skype: https://join.skype.com/wjhRb0v3AeoM
 Email: aaccou52@gmail.com
 ```
-```
-Features:
 
+```
+***Features:
 SMPP Client / Server
 HTTP Client / Server
 Based on AMQP broker for store&forward mechanisms
