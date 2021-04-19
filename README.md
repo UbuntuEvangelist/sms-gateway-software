@@ -20,3 +20,17 @@ WhatsApp: https://wa.link/o9zcd5
 Skype: https://join.skype.com/wjhRb0v3AeoM
 Email: aaccou52@gmail.com
 ```
+```
+Features:
+
+SMPP Client / Server
+HTTP Client / Server
+Based on AMQP broker for store&forward mechanisms
+Advanced message routing : Simple & static, Roundrobin, Failover, Leastcost ..
+Standard message filtering: TransparentFilter, ConnectorFilter, UserFilter ..
+Advanced message filtering: EvalPyFilter
+Flexible billing support
+Supports Unicode (UTF-8 / 16) for sending out multilingual SMS
+Supports easy creation and sending of specialized/binary SMS like mono Ringtones, WAP Push, Vcards
+Supports concatenated (multipart) SMS contents (long SMS)
+```
