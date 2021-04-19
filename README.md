@@ -13,7 +13,7 @@ This GitHub Gig Will Help You Complete SMS Gateway Installation According To You
 SMS gateway designed for performance, high traffic loads and full in-memory execution.
 ```
 ```
-After My Production Development You Can Able To Send And Receive Text SMS Messages Using Jasmin SMS Gateway Software Using API From Your SMSC Providers.
+After My Production Development You Can Able To Send And Receive Text SMS Messages Using my SMS Gateway Software Using API From Your SMSC Providers.
 ````
 
 ```
