@@ -1,4 +1,5 @@
 # SMS Gateway Software Deploy Service 
+# No False Promises. No Over-Hype 
 ```
 I will install SMS gateway Linux for send and receive text SMS real time 100% inbox.
 
@@ -6,9 +7,11 @@ I will do SMS Gateway software installation and configuration service from home 
 
 This GitHub Gig Will Help You Complete SMS Gateway Installation According To Your Business Model.
 ```
+
 ```
 After My Production Development You Can Able To Send And Receive Text SMS Messages Using Jasmin SMS Gateway Software Using API From Your SMSC Providers.
 ````
+
 ```
 PING ME TO ENGAGED YOUR WORKS:
 SMS: +8801890757616
@@ -36,3 +39,5 @@ Supports Unicode (UTF-8 / 16) for sending out multilingual SMS
 Supports easy creation and sending of specialized/binary SMS like mono Ringtones, WAP Push, Vcards
 Supports concatenated (multipart) SMS contents (long SMS)
 ```
+
+
