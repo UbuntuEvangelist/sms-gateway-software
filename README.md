@@ -45,5 +45,5 @@ Supports concatenated (multipart) SMS contents (long SMS)
 ```
 
 ```
-🌍 [Demo](https://www.youtube.com/watch?v=J3jpacPdmpg&list=PLADP8UjqKARU57oGS-e-w7bCxnNYp5Vr8) - Which I did.
+🌍 Demo: https://www.youtube.com/watch?v=J3jpacPdmpg&list=PLADP8UjqKARU57oGS-e-w7bCxnNYp5Vr8
 ```
