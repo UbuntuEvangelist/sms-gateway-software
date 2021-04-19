@@ -1,5 +1,4 @@
 # SMS Gateway Software Deploy Service 
-# No False Promises. No Over-Hype 
 ```
 I will install SMS gateway Linux for send and receive text SMS real time 100% inbox.
 
